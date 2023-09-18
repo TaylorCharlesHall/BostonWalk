@@ -1,3 +1,5 @@
+<img src="analysis.jpg"/>
+
 # BostonWalk
 Navigating through the data of Boston's residents
 ### Details
