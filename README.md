@@ -1,4 +1,4 @@
-<img src="analysis.jpg"/>
+<img src="analysis.jpg"/ width="100" height="100">
 
 # BostonWalk
 Navigating through the data of Boston's residents
