@@ -8,3 +8,5 @@ I populated an html file making use of public data (data.js) displaying only par
 The data could be filtered though in a number of different ways including finding the median and outputting it in a more user-friendly, stylized way.
 ### How to Run
 Install the dependencies from the [repository](https://github.com/TaylorCharlesHall/BostonWalk/) into the same directory . Click and drag into any browser.
+
+[Home](https://taylorcharleshall.github.io)
